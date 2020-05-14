@@ -1,0 +1,59 @@
+/*
+Theme Name:   hava child theme
+Description:  Write here a brief description about your child-theme
+Author:       gmatt
+Author URL:   http://gaucimatthew.com
+Template:     hava
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  hava-child
+*/
+
+/* Write here your own personal stylesheet */
+
+h1.title{
+	font-weight: 300;
+}
+
+
+ul#menu-primary.menu{
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	border: 0.5px solid white;
+	text-decoration: underline;
+}
+
+#menu-primary{
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+
+div.container-fluid.blog-head{
+	background: rgb(25,25,25);
+background: linear-gradient(90deg, rgba(25,25,25,1) 38%, rgba(131,75,1,1) 100%);
+}
+
+div.container-fluid.blog-ass{
+	background: rgb(25,25,25);
+background: linear-gradient(270deg, rgba(25,25,25,1) 38%, rgba(131,75,1,1) 100%);
+}
+}
+
+hr.undersearch{
+	background: black;
+}
+
+input.hava-search{
+	border-radius: 5px;
+	float: left;
+	background: rgb(25,25,25);
+background: linear-gradient(270deg, rgba(25,25,25,1) 50%, rgba(131,75,1,1) 100%);
+}
+}
+
+body{
+	width: 100%;
+}
